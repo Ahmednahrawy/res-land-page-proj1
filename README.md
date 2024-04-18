@@ -46,7 +46,7 @@
   </a>
 </h3>
 <p align= "center">
-    <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
+    <a href="https://www.youtube.com/?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
      <kbd>
           <img width="420" src="images/Screenshot 2024-03-24 002051.png"> 
       </kbd>
