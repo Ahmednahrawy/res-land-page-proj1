@@ -10,7 +10,7 @@ html and css responsive landing page for Alkhaleyah compony.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [pictures](#Pictures)
+- [Pictures](#pictures)
 
 ## About
 
@@ -43,6 +43,6 @@ html and css responsive landing page for Alkhaleyah compony.
 
 [Optional: Add screenshots or images of your project in action]
 
-#### Pictures of project
+#### Pictures
 
   <img width="420" src="images/Screenshot 2024-03-24 002051.png"> 
