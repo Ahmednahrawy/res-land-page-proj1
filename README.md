@@ -10,6 +10,7 @@ html and css responsive landing page for Alkhaleyah compony.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+- [pictures](#Pictures of project)
 
 ## About
 
