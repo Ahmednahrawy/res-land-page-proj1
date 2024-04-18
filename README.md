@@ -59,7 +59,7 @@
 
 2. **Open the project in your preferred Flutter IDE.**
 
-3. **Explore the its directory:**
+3. **Explore its directory:**
 
     - Review the project structure to understand the core of the app.
     - Customize the app of your need.
