@@ -23,11 +23,11 @@
     <a href="https://www.youtube.com/channel/UCHezStfLt6G4Fr9j4JCAUvA">
     <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-     <a href="https://mostaql.com/u//portfolio">
+     <a href="https://www.upwork.com/freelancers/~01cef88f2acf7dd0d1">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
   </a>
      </a>
-     <a href="https://t.me/">
+     <a href="https://t.me/ahmadAlnahrawy">
     <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
